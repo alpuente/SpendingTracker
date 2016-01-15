@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpendingTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_purchase">Add new purchase!</string>
+    <string name="header">Add a new purchase!</string>
+    <string name="purchaseType">What kind of purchase?</string>
+    <string name="price">Price:</string>
+    <string name="description">Description:</string>
+</resources>
