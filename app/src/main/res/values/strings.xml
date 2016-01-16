@@ -7,4 +7,8 @@
     <string name="price">Price:</string>
     <string name="description">Description:</string>
     <string name="hello">Hello World</string>
+    <string name="mainheading">Spending in last month:</string>
+    <string name="viewbuttontext">View</string>
+    <string name="viewpurchasetext">View all purchases of:</string>
+    <string name="title_activity_display_purchases">DisplayPurchases</string>
 </resources>

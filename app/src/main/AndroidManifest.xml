@@ -21,6 +21,10 @@
         <activity
             android:name=".AddPurchaseActivity"
             android:label="@string/title_activity_add_purchase"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DisplayPurchases"
+            android:label="@string/title_activity_display_purchases"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
